@@ -1,0 +1,13 @@
+my name is nilabja 
+here vi opens vi editir or edit existing text file
+i switch from commend to inser mode
+
+esc to switch insert to command mode
+
+w for write file or save the file
+
+q quit the file
+
+u for undo the last change
+
+ctrl + r redo the last undone change
